@@ -13,9 +13,9 @@ Key Findings:
 
 ### June 2022 vs June 2023 Sales Performance
 
-![June 2022 vs June 2023 Sales Performance - Table]()
+![June 2022 vs June 2023 Sales Performance - Table](images/1_June_2022_2023-Table.png)
 
-![June 2022 vs June 2023 Sales Performance - Chart]()
+![June 2022 vs June 2023 Sales Performance - Chart](images/1_June_2022_2023-Chart.png)
 
 ### 2022 vs 2023 QTD Sales by Province
 
@@ -23,9 +23,9 @@ Observations:
 * Sales performance between June 2022 and June 2023 are near identical across all positives, with June 2023 indicating smaller increase in sales revenue compared to the prior year.
 * Saskatchewan and Quebec represent the largest June sales increase compared to the other Provinces, whereas New Brunswick and Ontario represent the smallest sales increase.
 
-![2022 vs 2023 QTD Sales by Province - Chart]()
+![2022 vs 2023 QTD Sales by Province - Chart](images/2_Q1_Q2_2022_2023_QTD-Table.png)
 
-![2022 vs 2023 QTD Sales by Province - Table]()
+![2022 vs 2023 QTD Sales by Province - Table](images/2_Q1_Q2_2022_2023_QTD-Chart.png)
 
 Observations:
 * British Columbia, Nova Scotia, Ontario, PEI, Quebec, and Saskatchewan experienced a significant increase in sales in Q2 of 2022 & 2023, compared to Q1 of 2022 & 2023.
@@ -34,15 +34,17 @@ Observations:
 
 ### 2022 vs 2023 YTD Sales by Province
 
-![2022 vs 2023 YTD Sales by Province - Table]()
+![2022 vs 2023 YTD Sales by Province - Table](images/3_2022_2023_YTD-Table.png)
 
-![2022 vs 2023 YTD Sales by Province - Chart]()
-
-Observations:
-> 2022 YTD = Jan 2022 to Dec 2022
-> 2023 YTD = Jun 2023
+![2022 vs 2023 YTD Sales by Province - Chart](images/3_2022_2023_YTD-Chart.png)
 
 Observations:
+
+|Abbreviation|Meaning|
+|--|--|
+|2022 YTD|Jan 2022 to Dec 2022|
+|2023 YTD|Jan 2023 to Jun 2023|
+
 * Alberta, New Brunswick, Saskatchewan's sales performance in 2023 has crossed halfway of their 2022 sales performance as of June 2023.
 * Remaining provinces overall sales in 2023 is a minor portion in relation to their 2022 YTD sales performance.
 
