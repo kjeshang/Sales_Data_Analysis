@@ -47,4 +47,6 @@ Observations:
 * Remaining provinces overall sales in 2023 is a minor portion in relation to their 2022 YTD sales performance.
 
 ## Strategic Recommendations
-1. 
+1. Focus on Growth Investments: Reallocate a portion of budgets toward lesser performing Provinces, such as British Columbia and Quebec, to capitalize on high relative growth velocity.
+2. Maintain Key Accounts: Reinforce relationship management in Saskatchewan and  Ontario to safeguard major revenue foundations.
+3. Align Planning: Ensure quarterly targets account for historical Q1 to Q2 seasonal velocity shifts observed across all markets.
