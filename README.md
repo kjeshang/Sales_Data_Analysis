@@ -9,6 +9,8 @@ Key Findings:
 * Sales Volume: Saskatchewan continues to lead national top-line revenue, generating approximately $2.95M in June 2023 and approximately $7.95M in 2023 Q2.
 * Seasonal Acceleration: All regions exhibited positive sequential growth from 2023 Q1 to Q2 2023.
 
+## Regional Performance Observations
+
 ### June 2022 vs June 2023 Sales Performance
 
 ![June 2022 vs June 2023 Sales Performance - Table]()
@@ -41,4 +43,8 @@ Observations:
 > 2023 YTD = Jun 2023
 
 Observations:
-* Alberta and 
+* Alberta, New Brunswick, Saskatchewan's sales performance in 2023 has crossed halfway of their 2022 sales performance as of June 2023.
+* Remaining provinces overall sales in 2023 is a minor portion in relation to their 2022 YTD sales performance.
+
+## Strategic Recommendations
+1. 
