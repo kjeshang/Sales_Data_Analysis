@@ -17,11 +17,11 @@ Key Findings:
 
 ![June 2022 vs June 2023 Sales Performance - Chart](images/1_June_2022_2023-Chart.png)
 
-### 2022 vs 2023 QTD Sales by Province
-
 Observations:
 * Sales performance between June 2022 and June 2023 are near identical across all positives, with June 2023 indicating smaller increase in sales revenue compared to the prior year.
 * Saskatchewan and Quebec represent the largest June sales increase compared to the other Provinces, whereas New Brunswick and Ontario represent the smallest sales increase.
+
+### 2022 vs 2023 QTD Sales by Province
 
 ![2022 vs 2023 QTD Sales by Province - Chart](images/2_Q1_Q2_2022_2023_QTD-Table.png)
 
